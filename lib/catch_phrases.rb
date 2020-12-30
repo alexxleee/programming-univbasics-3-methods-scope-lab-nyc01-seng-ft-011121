@@ -6,3 +6,13 @@ end
 def toadstool
   puts status
 end
+
+def link
+  puts phrase1
+end
+
+def all_phrases
+  mario
+  toadstool 
+  link
+end
